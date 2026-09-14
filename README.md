@@ -21,9 +21,9 @@ Applying my rookie knowledge and document how I solve challenges. Also, my perso
 ## Recent Events
 
 <details>
-<summary><b> ּ🖇️ 2026 Competitions</b></summary>
+<summary><b> ּ🖇️ Double Dawn CTF 2026 </b></summary>
 
-* **Double Dawn CTF 2026** — Placed `#12` / 29 teams / `3100` Points
+*  Placed `#12` / 29 teams / `3100` Points
   * `[Web]` Inspecting /robots.txt & Manipulating Traffic with Burp Suite
   * `[Cryptography]` Terminal-sealed DES key recovery, Slot-Floor Forensics Puzzle, and Tally Checksum 
   * `[Wildcard]` Telegram Bot Pentesting, Websocat (Pwn), Audio/OpenUTAU Steganography & OSINT
