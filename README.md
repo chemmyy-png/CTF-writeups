@@ -21,3 +21,5 @@ documenting solved challenges
 Here is the hidden content, code snippet, or detailed installation log.
 
 </details>
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=rose&show_icons=true)
