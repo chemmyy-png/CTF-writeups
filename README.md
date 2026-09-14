@@ -1,25 +1,45 @@
-# CTF-writeups
-documenting solved challenges
-![License](https://img.shields.io/badge/License-MIT-pink?style=for-the-badge&logo=github)
+<div align="center">
 
-![Stars](https://img.shields.io/badge/Stars-100%2B-ffb6c1?style=for-the-badge&logo=star)
+# 🚩 CTF Writeups Archive
 
+*Writeups by chemmyy??*
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-ffc0cb?style=for-the-badge&logo=python)
+![Total Writeups](https://img.shields.io/badge/Writeups-13-ffb6c1?style=for-the-badge&logo=flag)
+![Focus](https://img.shields.io/badge/Focus-Web%20%7C%20Crypto%20%7C%20OSINT%20%7C%20PWN-ffc0cb?style=for-the-badge&logo=target)
+![Status](https://img.shields.io/badge/Competitions-1-pink?style=for-the-badge&logo=github)
 
-<table align="center">
-  <tr>
-    <td align="center"><a href="#feature-1"><b>🌸 Feature One</b></a></td>
-    <td align="center"><a href="#feature-2"><b>🌿 Feature Two</b></a></td>
-    <td align="center"><a href="#feature-3"><b>🎀 Feature Three</b></a></td>
-  </tr>
-</table>
+---
+
+> *"Practicing and documenting all my solved challenges"* 
+
+</div>
+
+## About This Repository
+
+Applying my rookie knowledge and document how I solve challenges. Also, my personal diary where I track my knowledge level.
+
+## Featured Events
 
 <details>
-<summary><b>Click to expand extra details 💖</b></summary>
+<summary><b> ּ ֶָ֢. 2026 Competitions</b></summary>
 
-Here is the hidden content, code snippet, or detailed installation log.
+* **Doubel Dawn CTF 2026** — Placed `#12` / 29 teams
+  * `[Web]` 
+  * `[Cryptography]` 
+  * `[Wildcard]` 
+  * `[Appetizer]`
+  * `[OSINT]`
 
 </details>
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=rose&show_icons=true)
+---
+
+##  Quick Structure
+
+```text
+📁 CTF-Writeups
+ ├── 📂 2026
+ │    └── 📂 Event-Name ----
+ │         ├── 📄 Web-ChallengeName.md
+ │         └── 📜 exploit_script.py
+ └── 📄 README.md
