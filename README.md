@@ -23,12 +23,12 @@ Applying my rookie knowledge and document how I solve challenges. Also, my perso
 <details>
 <summary><b> ּ ֶָ֢. 2026 Competitions</b></summary>
 
-* **Doubel Dawn CTF 2026** — Placed `#12` / 29 teams
-  * `[Web]` 
-  * `[Cryptography]` 
-  * `[Wildcard]` 
-  * `[Appetizer]`
-  * `[OSINT]`
+* **Double Dawn CTF 2026** — Placed `#12` / 29 teams / `3100` Points
+  * `[Web]` Inspecting /robots.txt & Manipulating Traffic with Burp Suite
+  * `[Cryptography]` Terminal-sealed DES key recovery, Slot-Floor Forensics Puzzle, and Tally Checksum 
+  * `[Wildcard]` Telegram Bot Pentesting, Websocat (Pwn), Audio/OpenUTAU Steganography & OSINT
+  * `[Appetizer]` Warm-up Recon: Source Code Inspection, Discord OSINT & Image Contrast Adjustments
+  * `[OSINT]` Geological OSINT & Username OSINT
 
 </details>
 
