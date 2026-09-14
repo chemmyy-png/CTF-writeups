@@ -18,7 +18,7 @@
 
 Applying my rookie knowledge and document how I solve challenges. Also, my personal diary where I track my knowledge level.
 
-## Featured Events
+## Recent Events
 
 <details>
 <summary><b> ּ🖇️ 2026 Competitions</b></summary>
