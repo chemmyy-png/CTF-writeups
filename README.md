@@ -21,7 +21,7 @@ Applying my rookie knowledge and document how I solve challenges. Also, my perso
 ## Featured Events
 
 <details>
-<summary><b> ּ ֶָ֢. 2026 Competitions</b></summary>
+<summary><b> ּ🖇️ 2026 Competitions</b></summary>
 
 * **Double Dawn CTF 2026** — Placed `#12` / 29 teams / `3100` Points
   * `[Web]` Inspecting /robots.txt & Manipulating Traffic with Burp Suite
