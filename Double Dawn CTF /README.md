@@ -6,6 +6,7 @@
 - **Type:** Internal / Practice CTF (Jeopardy Style)
 - **Organizer:** University Course Mates
 - **Format:** Solo / Paired Teams
+- **Duration:** 8th September 2026 - 13th September 2026 
 
 ---
 
