@@ -14,3 +14,10 @@ documenting solved challenges
     <td align="center"><a href="#feature-3"><b>🎀 Feature Three</b></a></td>
   </tr>
 </table>
+
+<details>
+<summary><b>Click to expand extra details 💖</b></summary>
+
+Here is the hidden content, code snippet, or detailed installation log.
+
+</details>
