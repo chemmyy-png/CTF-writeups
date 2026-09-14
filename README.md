@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚩 CTF Writeups Archive
+# CTF Writeups Archive ⚐⊹₊⋆.‧
 
 *Writeups by chemmyy??*
 
