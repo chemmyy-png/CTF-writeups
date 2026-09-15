@@ -24,11 +24,6 @@ Applying my rookie knowledge and document how I solve challenges. Also, my perso
 <summary><b> ּ🖇️ Double Dawn CTF 2026 </b></summary>
 
 *  Placed `#12` / 29 teams / `3100` Points
-  * `[Web]` Inspecting /robots.txt & Manipulating Traffic with Burp Suite
-  * `[Cryptography]` Terminal-sealed DES key recovery, Slot-Floor Forensics Puzzle, and Tally Checksum 
-  * `[Wildcard]` Telegram Bot Pentesting, Websocat (Pwn), Audio/OpenUTAU Steganography & OSINT
-  * `[Appetizer]` Warm-up Recon: Source Code Inspection, Discord OSINT & Image Contrast Adjustments
-  * `[OSINT]` Geological OSINT & Username OSINT
 
 </details>
 
@@ -38,8 +33,7 @@ Applying my rookie knowledge and document how I solve challenges. Also, my perso
 
 ```text
 📁 CTF-Writeups
- ├── 📂 2026
- │    └── 📂 Event-Name ----
- │         ├── 📄 Web-ChallengeName.md
- │         └── 📜 exploit_script.py
- └── 📄 README.md
+ ├── 📂 Event-Name
+ │    ├── 📄 writeup.md
+ │    └── 📜 exploit_script.py (if any)
+ └── 📄 description.md
