@@ -28,6 +28,10 @@ The first ad for this event was advertised by a poster. Surely, there was someth
 <img width="1134" height="476" alt="image" src="https://github.com/user-attachments/assets/d9793fb7-eb72-440e-8f81-055a689466f5" />
 </div>
 
+---
+
+# Walkthrough
+
 AperiSolve is one of the steganography/foresnic tool where it runs multiple common CLI commands such as `exiftool`, `binwalk`, `strings`, etc without the need to type them manually in the terminal. It also analyzes input images to refine colors to check whether the image has any hidden text.
 
 In this case, the metadata doesn't contain any suspicious contents I mentioned. But scrolling through the image color remappings, I found something inside the image.
@@ -36,6 +40,10 @@ In this case, the metadata doesn't contain any suspicious contents I mentioned. 
 <img width="500" height="160" alt="image" src="https://github.com/user-attachments/assets/c8497f94-a726-46df-a5ae-b73962af5875" />
 </div>
 
-The flag was found under the title that says:
+With this, I can already see the flag format.
 
-`flag = DwD{yOu_4r3_r34dy_for_7h15}`
+---
+
+# Flag
+
+`DwD{yOu_4r3_r34dy_for_7h15}`
