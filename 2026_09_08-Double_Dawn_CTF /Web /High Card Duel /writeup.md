@@ -36,23 +36,19 @@ Playing along with how the system works, the possibility to win or lose is compl
 <img width="1351" height="678" alt="image" src="https://github.com/user-attachments/assets/18cf5db6-b9ba-47d6-82f8-353a7fa36820" />
 
 
-When I inspect the page 
+When I open `network` on inspect, I noticed that 
 
 <img width="1152" height="473" alt="image" src="https://github.com/user-attachments/assets/fb391c92-0f1b-41ce-9076-b9f6fec2787a" />
 
 <img width="1147" height="474" alt="image" src="https://github.com/user-attachments/assets/ebda2208-5397-43ff-9550-87587e57efba" />
 
-Usually when we're dealing with web exploitation, one of the common tool to use is Burp Suite. Burp Suite primarily intercepting with the proxy server. What is a proxy? It is an intermediary hardware device or software application that acts as a gateway between a client device and the internet. 
-
-To intercept the web, we are going to turn on the intercept right after betting for the amount.
-
-
-
 ---
 
 # Walkthrough
 
+Usually when we're dealing with web exploitation, one of the common tool to use is Burp Suite. Burp Suite primarily intercepting with the proxy server. What is a proxy? It is an intermediary hardware device or software application that acts as a gateway between a client device and the internet. 
 
+To intercept the web, we are going to turn on the intercept right after betting for the amount.
 
 ---
 
