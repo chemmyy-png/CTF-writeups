@@ -31,12 +31,20 @@ When I opened the event's discord server, there's a description I noticed writte
 
 hex code = `64 61 77 6E 63 6F 72 64`
 
-So I copy the hex code to convert them using CyberChef. CyberChef is a common CTF tool used for converting from one format to another.
+---
+
+# Walkthrough
+
+I copy the hex code to convert them using CyberChef. CyberChef is a common CTF tool used for converting from one format to another.
 <div align="center">
 <img width="922" height="354" alt="image" src="https://github.com/user-attachments/assets/6ffb07fb-4411-4d5f-ab94-dbc461bddaca" />
 </div>
 
 Using the `from Hex` option, the output shows the string as `dawncord`, indicated that it was a hidden flag encoded into hex format.
 
-`flag = DwD{dawncord}`
+---
+
+# Flag
+
+`DwD{dawncord}`
 
