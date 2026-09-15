@@ -23,7 +23,7 @@ Applying my rookie knowledge and document how I solve challenges. Also, my perso
 <details>
 <summary><b> ּ🖇️ Double Dawn CTF 2026 </b></summary>
 
-*  Placed `#12` / 29 teams / `3100` Points
+*  Placed `#12` from 29 teams | `3100` Points
 
 </details>
 
